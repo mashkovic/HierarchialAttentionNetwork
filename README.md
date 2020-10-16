@@ -1,14 +1,10 @@
 # Code for HAN experiment - Mashrur
 
-DISCLAIMER: This is not a very well written documentation but is definitely better than you-know-who :)
-
-<br>
-
 ## Declaration :
 <hr>
 Majority of the code is taken from https://github.com/TovlyDeutsch/Linguistic-Features-for-Readability 
 
-The model described in the associated research paper and the code has been tweaked to achieve our purposes.  
+The model described in the associated research paper and the code has been tweaked to achieve my research purpose.  
 
 <br>
 
